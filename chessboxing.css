@@ -51,7 +51,7 @@ a {
 
 .navbg {
 	/*setting navbar image, white text for nav bar, alignment, etc*/
-	background-image: url("http://homepages.cs.ncl.ac.uk/harold.fellermann/csc8018/chessboxing/chessboxing_background.jpg");
+	background-image: url("resources/chessboxing_background.jpg");
 	background-color: black;
 	color: white;
 	min-height: 10%;
